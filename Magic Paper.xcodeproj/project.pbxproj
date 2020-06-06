@@ -13,6 +13,7 @@
 		A1E46B72248BEBCC003C2FAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1E46B70248BEBCC003C2FAA /* Main.storyboard */; };
 		A1E46B74248BEBCE003C2FAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1E46B73248BEBCE003C2FAA /* Assets.xcassets */; };
 		A1E46B77248BEBCE003C2FAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1E46B75248BEBCE003C2FAA /* LaunchScreen.storyboard */; };
+		A1E46B7F248BEBF9003C2FAA /* harry-potter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A1E46B7E248BEBF9003C2FAA /* harry-potter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A1E46B73248BEBCE003C2FAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1E46B76248BEBCE003C2FAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1E46B78248BEBCE003C2FAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1E46B7E248BEBF9003C2FAA /* harry-potter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "harry-potter.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		A1E46B69248BEBCC003C2FAA /* Magic Paper */ = {
 			isa = PBXGroup;
 			children = (
+				A1E46B7E248BEBF9003C2FAA /* harry-potter.mp4 */,
 				A1E46B6A248BEBCC003C2FAA /* AppDelegate.swift */,
 				A1E46B6C248BEBCC003C2FAA /* art.scnassets */,
 				A1E46B6E248BEBCC003C2FAA /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				A1E46B6D248BEBCC003C2FAA /* art.scnassets in Resources */,
 				A1E46B77248BEBCE003C2FAA /* LaunchScreen.storyboard in Resources */,
+				A1E46B7F248BEBF9003C2FAA /* harry-potter.mp4 in Resources */,
 				A1E46B74248BEBCE003C2FAA /* Assets.xcassets in Resources */,
 				A1E46B72248BEBCC003C2FAA /* Main.storyboard in Resources */,
 			);
